@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main () {
+
+    struct book {
+        char name[20];
+        int price;
+    };
+    //above order has to maintain.
+    struct book 
+    b1 = {"book1",90},
+    b2 = {"book2",70},
+    b3 = {"book3",10};
+}
