@@ -11,6 +11,7 @@ int main() {
     printf("b= %lu\n",sizeof(test.b));
     printf("a= %lu\n",sizeof(test.c));
 
+
     //total size of test
-    
+    printf("%lu\n",sizeof(test));
 }
