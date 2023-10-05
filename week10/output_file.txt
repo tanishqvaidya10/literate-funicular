@@ -1,0 +1,2 @@
+56
+ Just printed the last element read from the above list
